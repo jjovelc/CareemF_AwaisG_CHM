@@ -1,1 +1,3 @@
 # chicken_housing_metagenomics_awais
+
+In this project, a metagenomics analysis was conducted on samples collected...
