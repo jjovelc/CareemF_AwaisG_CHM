@@ -1,3 +1,3 @@
-# chicken_housing_metagenomics_awais
+# Metagenomics studies in housing of broiler chicken
 
 In this project, a metagenomics analysis was conducted on samples collected...
